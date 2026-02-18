@@ -1,8 +1,5 @@
 import hashlib
 import secrets
-import os
-
-
 
 # --- UI HELPER FUNCTIONS ---
 def print_header(text):
